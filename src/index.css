@@ -1,3 +1,52 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#hero {
+  background-image: url("./images/desktop/image-hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 576px) {
+  #hero {
+    background-image: url("./images/desktop/image-hero.jpg");
+    background-position: center;
+  }
+}
+.hemburger {
+  width: 24px;
+  height: 24px;
+  transition: all 0.5s;
+  position: relative;
+}
+
+.hemburger-top,
+.hemburger-middle,
+.hemburger-bottom {
+  position: absolute;
+  width: 24px;
+  height: 2px;
+  top: 0;
+  left: 0;
+  background: #fff;
+  transform: rotate(0);
+  transition: all 0.5s;
+}
+.hemburger-middle {
+  transform: translateY(7px);
+}
+
+.hemburger-bottom {
+  transform: translateY(14px);
+}
+.open .hemburger-middle {
+  display: none;
+}
+
+.open .hemburger-top {
+  transform: rotate(45deg) translateY(6px) translateX(6px);
+}
+.open .hemburger-bottom {
+  transform: rotate(-45deg) translateY(6px) translateX(-6px);
+}
