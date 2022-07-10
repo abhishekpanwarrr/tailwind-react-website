@@ -1,70 +1,64 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tailwind Css With React 
 
-## Available Scripts
+This is an VR website created with React Js using Tailwind CSS
 
-In the project directory, you can run:
 
-### `npm start`
+## Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Insert gif or link to demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+https://tailwind-react-website.vercel.app
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on creation section
 
-### `npm test`
+🧠 I'm currently learning typescript
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+👯‍♀️ I'm looking to collaborate
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+💬 Ask me about React Js 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📫 You can react me on my webiste or with instagram 
+:- https://abhishekpanwar.netlify.app
+:- https://instagram.com/abhishekpanwarrr
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+⚡️ Fun fact is that i love to write code 😊💕
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abhishekpanwar.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekpanwarrr/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Installation
 
-## Learn More
+Install my-project with npm
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Used By
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project can be  used by anyone 
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Running Tests
 
-### Making a Progressive Web App
+To run tests, run the following command
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+  npm run test
+```
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Support
 
-### Deployment
+For support, email abhishekpanwar1718@gmail.com or join me on linkedin.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
