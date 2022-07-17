@@ -1,17 +1,22 @@
-import React from "react";
-import Creations from "./components/Creations";
-import Features from "./components/Features";
-import Footer from "./components/Footer";
-import Navigation from "./components/Navigation";
+import React, { Suspense } from "react";
+import Loader from "./components/Loader";
+const Creations = React.lazy(() => import("./components/Creations"));
+const Features = React.lazy(() => import("./components/Features"));
+const Footer = React.lazy(() => import("./components/Footer"));
+const Navigation = React.lazy(() => import("./components/Navigation"));
+// import Creations from ;
+// import Features from ;
+// import Footer from ";
+// import Navigation from ;
 
 const App = () => {
   return (
-    <main>
+    <Suspense fallback={<Loader />}>
       <Navigation />
       <Features />
       <Creations />
       <Footer />
-    </main>
+    </Suspense>
   );
 };
 

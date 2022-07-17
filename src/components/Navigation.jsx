@@ -56,16 +56,13 @@ const Navigation = () => {
             Home
           </a>
           <a href="/" className="hover:text-blue-100">
-            Home
+            Contact
           </a>
           <a href="/" className="hover:text-blue-100">
-            Home
+            Events
           </a>
           <a href="/" className="hover:bg-blue-100">
-            Home
-          </a>
-          <a href="/" className="hover:bg-blue-100">
-            Home
+            Support
           </a>
         </div>
         {/* Hero Content */}
